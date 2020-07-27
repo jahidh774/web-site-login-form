@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding:0;
+}
+.total_site {
+    width: 800px;
+    margin: auto;
+}
+
+.header {background: #666666;height: 120px;text-align: center;line-height: 120px;color: white;font-size: 30px;}
+
+.footer_section {
+    background: #fff;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    color: black;
+    font-size: 24px;
+}
+
+.side_bar {
+    width: 200px;
+    float: left;
+    height: 171px;
+    background: #CCCCCC;
+    text-align: center;
+    line-height: 30px;
+}
+
+.content_section {
+    width: 550px;
+    float: right;
+    margin-top: 19px;
+}
+
+.content_bar {
+    overflow: hidden;
+}
+
+.side_bar ul {
+    margin-top: 50px;
+    list-style: none;
+}
